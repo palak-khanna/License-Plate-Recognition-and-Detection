@@ -117,3 +117,6 @@ model.save('license_plate_detection_model.pt')
 from google.colab import files
 files.download('license_plate_detection_model.pt')
 
+# this part done
+
+
